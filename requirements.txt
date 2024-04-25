@@ -1,9 +1,9 @@
 timm==0.4.12
 transformers==4.25.1
 fairscale==0.4.4
-pycocoevalcap
-torch
-torchvision
-Pillow
-scipy
+pycocoevalcap==1.2
+torch==2.2.2
+torchvision==0.17.2
+pillow==10.3.0
+scipy==1.13.0
 clip @ git+https://github.com/openai/CLIP.git
